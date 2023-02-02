@@ -44,7 +44,7 @@ a{
 }
 
 .body{
-  background-image: url(../img/pan2.jpg);
+  background-image: url("https://raw.githubusercontent.com/Kato-Dai26/kato-7-pro.github.io/8d8ea5dfed6d0b3f337ef95644c4f82d6fb17010/pan2.jpg");
   height: 100vh;
   padding: 130px 0 0 0;
   color: #fff;
